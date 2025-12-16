@@ -90,3 +90,11 @@ streamlit run app.py
 ---
 
 ## ตัวอย่างการใช้งาน
+การถามยอดขาย
+<img width="2217" height="1187" alt="image" src="https://github.com/user-attachments/assets/58134b16-8db1-482b-a255-810f660a2766" />
+การถามความคิดเห็น
+<img width="2218" height="1185" alt="image" src="https://github.com/user-attachments/assets/725cfc28-d6a9-4e53-b12c-872b588c6c36" />
+คำถามผสม
+<img width="927" height="1062" alt="image" src="https://github.com/user-attachments/assets/0e32612d-431c-43af-9a8a-395a0d1809d7" />
+
+
