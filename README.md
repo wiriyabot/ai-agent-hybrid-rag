@@ -19,8 +19,8 @@
 * **Core:** Python, LangChain, LangGraph
 * **Model:** OpenAI gpt-4.1-mini (สามารถปรับเปลี่ยนได้)
 * **Database:**
-  * **Structured:** SQLite (จัดการผ่าน `langchain-community` SQL Toolkit)
-  * **Unstructured:** ChromaDB (Vector Store)
+  * **Structured:** SQLite
+  * **Unstructured:** ChromaDB
 * **Interface:** Streamlit
 
 ---
