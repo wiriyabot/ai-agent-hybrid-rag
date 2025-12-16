@@ -95,6 +95,7 @@ streamlit run app.py
 การถามความคิดเห็น
 <img width="2218" height="1185" alt="image" src="https://github.com/user-attachments/assets/725cfc28-d6a9-4e53-b12c-872b588c6c36" />
 คำถามผสม
-<img width="927" height="1062" alt="image" src="https://github.com/user-attachments/assets/0e32612d-431c-43af-9a8a-395a0d1809d7" />
+<img width="2209" height="1182" alt="image" src="https://github.com/user-attachments/assets/50b7f0a0-29fb-41fe-afc8-3e65233b9a1a" />
+
 
 
