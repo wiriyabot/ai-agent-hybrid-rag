@@ -1,0 +1,501 @@
+transaction_id,date,product_name,category,unit_price,quantity,total_amount,region
+TRX-1000,2024-03-19,iPhone 15 Pro,Electronics,41900,2,83800,Khon Kaen
+TRX-1001,2024-01-06,iPhone 15 Pro,Electronics,41900,1,41900,Khon Kaen
+TRX-1002,2024-01-21,Dell XPS 13,Computers,55000,2,110000,Khon Kaen
+TRX-1003,2024-01-23,Samsung S24 Ultra,Electronics,45900,1,45900,Chiang Mai
+TRX-1004,2024-01-13,Logitech MX Master 3S,Accessories,3900,2,7800,Phuket
+TRX-1005,2024-02-21,Sony WH-1000XM5,Accessories,11900,3,35700,Khon Kaen
+TRX-1006,2024-03-20,Samsung S24 Ultra,Electronics,45900,2,91800,Phuket
+TRX-1007,2024-02-09,Sony WH-1000XM5,Accessories,11900,2,23800,Khon Kaen
+TRX-1008,2024-01-04,Logitech MX Master 3S,Accessories,3900,1,3900,Phuket
+TRX-1009,2024-01-07,MacBook Air M2,Computers,34900,2,69800,Phuket
+TRX-1010,2024-02-27,Logitech MX Master 3S,Accessories,3900,1,3900,Bangkok
+TRX-1011,2024-02-12,Samsung S24 Ultra,Electronics,45900,3,137700,Khon Kaen
+TRX-1012,2024-03-11,Dell XPS 13,Computers,55000,2,110000,Chiang Mai
+TRX-1013,2024-03-24,Dell XPS 13,Computers,55000,2,110000,Bangkok
+TRX-1014,2024-03-17,MacBook Air M2,Computers,34900,2,69800,Khon Kaen
+TRX-1015,2024-03-20,Sony WH-1000XM5,Accessories,11900,1,11900,Bangkok
+TRX-1016,2024-03-25,iPhone 15 Pro,Electronics,41900,2,83800,Khon Kaen
+TRX-1017,2024-01-18,Samsung S24 Ultra,Electronics,45900,2,91800,Bangkok
+TRX-1018,2024-02-29,Sony WH-1000XM5,Accessories,11900,2,23800,Phuket
+TRX-1019,2024-03-19,Dell XPS 13,Computers,55000,2,110000,Khon Kaen
+TRX-1020,2024-01-04,Dell XPS 13,Computers,55000,3,165000,Chiang Mai
+TRX-1021,2024-01-29,MacBook Air M2,Computers,34900,1,34900,Phuket
+TRX-1022,2024-02-12,Dell XPS 13,Computers,55000,1,55000,Chiang Mai
+TRX-1023,2024-02-02,Sony WH-1000XM5,Accessories,11900,3,35700,Chiang Mai
+TRX-1024,2024-01-27,iPhone 15 Pro,Electronics,41900,1,41900,Bangkok
+TRX-1025,2024-03-11,Samsung S24 Ultra,Electronics,45900,1,45900,Phuket
+TRX-1026,2024-02-16,Sony WH-1000XM5,Accessories,11900,2,23800,Bangkok
+TRX-1027,2024-03-04,Dell XPS 13,Computers,55000,1,55000,Chiang Mai
+TRX-1028,2024-01-31,Samsung S24 Ultra,Electronics,45900,2,91800,Bangkok
+TRX-1029,2024-03-18,MacBook Air M2,Computers,34900,3,104700,Bangkok
+TRX-1030,2024-03-06,Sony WH-1000XM5,Accessories,11900,1,11900,Bangkok
+TRX-1031,2024-02-14,iPhone 15 Pro,Electronics,41900,2,83800,Chiang Mai
+TRX-1032,2024-01-09,Samsung S24 Ultra,Electronics,45900,1,45900,Khon Kaen
+TRX-1033,2024-01-23,Dell XPS 13,Computers,55000,2,110000,Bangkok
+TRX-1034,2024-03-24,MacBook Air M2,Computers,34900,1,34900,Chiang Mai
+TRX-1035,2024-03-07,Samsung S24 Ultra,Electronics,45900,2,91800,Phuket
+TRX-1036,2024-03-16,Samsung S24 Ultra,Electronics,45900,3,137700,Phuket
+TRX-1037,2024-03-28,Logitech MX Master 3S,Accessories,3900,1,3900,Chiang Mai
+TRX-1038,2024-01-27,Dell XPS 13,Computers,55000,3,165000,Khon Kaen
+TRX-1039,2024-01-24,Sony WH-1000XM5,Accessories,11900,1,11900,Bangkok
+TRX-1040,2024-01-24,MacBook Air M2,Computers,34900,2,69800,Bangkok
+TRX-1041,2024-01-21,Samsung S24 Ultra,Electronics,45900,1,45900,Chiang Mai
+TRX-1042,2024-01-07,iPhone 15 Pro,Electronics,41900,1,41900,Khon Kaen
+TRX-1043,2024-01-26,Samsung S24 Ultra,Electronics,45900,1,45900,Chiang Mai
+TRX-1044,2024-02-15,Dell XPS 13,Computers,55000,3,165000,Phuket
+TRX-1045,2024-02-08,Logitech MX Master 3S,Accessories,3900,2,7800,Phuket
+TRX-1046,2024-03-08,Logitech MX Master 3S,Accessories,3900,1,3900,Chiang Mai
+TRX-1047,2024-03-06,MacBook Air M2,Computers,34900,2,69800,Bangkok
+TRX-1048,2024-03-03,Sony WH-1000XM5,Accessories,11900,1,11900,Bangkok
+TRX-1049,2024-02-06,Dell XPS 13,Computers,55000,2,110000,Chiang Mai
+TRX-1050,2024-03-21,Dell XPS 13,Computers,55000,1,55000,Chiang Mai
+TRX-1051,2024-01-08,Dell XPS 13,Computers,55000,3,165000,Bangkok
+TRX-1052,2024-01-25,Samsung S24 Ultra,Electronics,45900,2,91800,Phuket
+TRX-1053,2024-03-11,Samsung S24 Ultra,Electronics,45900,1,45900,Khon Kaen
+TRX-1054,2024-02-27,iPhone 15 Pro,Electronics,41900,3,125700,Phuket
+TRX-1055,2024-01-24,Sony WH-1000XM5,Accessories,11900,3,35700,Bangkok
+TRX-1056,2024-01-21,Sony WH-1000XM5,Accessories,11900,3,35700,Bangkok
+TRX-1057,2024-02-20,Dell XPS 13,Computers,55000,1,55000,Phuket
+TRX-1058,2024-03-30,Logitech MX Master 3S,Accessories,3900,3,11700,Chiang Mai
+TRX-1059,2024-02-29,Dell XPS 13,Computers,55000,1,55000,Khon Kaen
+TRX-1060,2024-01-25,Logitech MX Master 3S,Accessories,3900,1,3900,Khon Kaen
+TRX-1061,2024-02-06,MacBook Air M2,Computers,34900,3,104700,Khon Kaen
+TRX-1062,2024-03-30,Samsung S24 Ultra,Electronics,45900,1,45900,Chiang Mai
+TRX-1063,2024-03-30,MacBook Air M2,Computers,34900,1,34900,Chiang Mai
+TRX-1064,2024-01-29,iPhone 15 Pro,Electronics,41900,3,125700,Phuket
+TRX-1065,2024-03-29,iPhone 15 Pro,Electronics,41900,2,83800,Chiang Mai
+TRX-1066,2024-02-08,iPhone 15 Pro,Electronics,41900,3,125700,Chiang Mai
+TRX-1067,2024-02-13,Logitech MX Master 3S,Accessories,3900,3,11700,Chiang Mai
+TRX-1068,2024-01-25,Logitech MX Master 3S,Accessories,3900,2,7800,Chiang Mai
+TRX-1069,2024-03-14,MacBook Air M2,Computers,34900,1,34900,Bangkok
+TRX-1070,2024-01-16,Logitech MX Master 3S,Accessories,3900,1,3900,Bangkok
+TRX-1071,2024-02-13,Sony WH-1000XM5,Accessories,11900,3,35700,Bangkok
+TRX-1072,2024-01-29,iPhone 15 Pro,Electronics,41900,3,125700,Phuket
+TRX-1073,2024-01-31,MacBook Air M2,Computers,34900,3,104700,Chiang Mai
+TRX-1074,2024-01-16,MacBook Air M2,Computers,34900,2,69800,Chiang Mai
+TRX-1075,2024-01-01,Logitech MX Master 3S,Accessories,3900,2,7800,Chiang Mai
+TRX-1076,2024-02-04,iPhone 15 Pro,Electronics,41900,1,41900,Chiang Mai
+TRX-1077,2024-01-18,iPhone 15 Pro,Electronics,41900,3,125700,Khon Kaen
+TRX-1078,2024-01-18,MacBook Air M2,Computers,34900,2,69800,Bangkok
+TRX-1079,2024-03-17,iPhone 15 Pro,Electronics,41900,3,125700,Phuket
+TRX-1080,2024-02-07,Sony WH-1000XM5,Accessories,11900,3,35700,Bangkok
+TRX-1081,2024-03-08,MacBook Air M2,Computers,34900,3,104700,Bangkok
+TRX-1082,2024-03-11,Dell XPS 13,Computers,55000,3,165000,Khon Kaen
+TRX-1083,2024-03-07,Dell XPS 13,Computers,55000,2,110000,Chiang Mai
+TRX-1084,2024-03-26,Logitech MX Master 3S,Accessories,3900,3,11700,Bangkok
+TRX-1085,2024-02-29,Dell XPS 13,Computers,55000,1,55000,Bangkok
+TRX-1086,2024-03-23,Sony WH-1000XM5,Accessories,11900,1,11900,Phuket
+TRX-1087,2024-02-13,Sony WH-1000XM5,Accessories,11900,3,35700,Chiang Mai
+TRX-1088,2024-01-20,MacBook Air M2,Computers,34900,2,69800,Phuket
+TRX-1089,2024-01-28,Sony WH-1000XM5,Accessories,11900,1,11900,Phuket
+TRX-1090,2024-03-09,Dell XPS 13,Computers,55000,2,110000,Bangkok
+TRX-1091,2024-01-08,Dell XPS 13,Computers,55000,2,110000,Bangkok
+TRX-1092,2024-02-20,Sony WH-1000XM5,Accessories,11900,2,23800,Bangkok
+TRX-1093,2024-02-24,Logitech MX Master 3S,Accessories,3900,2,7800,Phuket
+TRX-1094,2024-01-29,Dell XPS 13,Computers,55000,3,165000,Bangkok
+TRX-1095,2024-02-24,iPhone 15 Pro,Electronics,41900,1,41900,Bangkok
+TRX-1096,2024-02-10,Sony WH-1000XM5,Accessories,11900,2,23800,Phuket
+TRX-1097,2024-02-23,iPhone 15 Pro,Electronics,41900,2,83800,Phuket
+TRX-1098,2024-03-03,MacBook Air M2,Computers,34900,2,69800,Khon Kaen
+TRX-1099,2024-03-31,MacBook Air M2,Computers,34900,2,69800,Bangkok
+TRX-1100,2024-02-27,iPhone 15 Pro,Electronics,41900,3,125700,Khon Kaen
+TRX-1101,2024-02-27,Logitech MX Master 3S,Accessories,3900,2,7800,Bangkok
+TRX-1102,2024-02-24,Samsung S24 Ultra,Electronics,45900,2,91800,Bangkok
+TRX-1103,2024-03-26,Samsung S24 Ultra,Electronics,45900,3,137700,Phuket
+TRX-1104,2024-01-21,iPhone 15 Pro,Electronics,41900,1,41900,Khon Kaen
+TRX-1105,2024-03-24,Logitech MX Master 3S,Accessories,3900,3,11700,Khon Kaen
+TRX-1106,2024-03-10,Sony WH-1000XM5,Accessories,11900,3,35700,Bangkok
+TRX-1107,2024-02-10,Samsung S24 Ultra,Electronics,45900,1,45900,Bangkok
+TRX-1108,2024-01-14,Logitech MX Master 3S,Accessories,3900,2,7800,Khon Kaen
+TRX-1109,2024-03-28,Sony WH-1000XM5,Accessories,11900,2,23800,Khon Kaen
+TRX-1110,2024-01-12,MacBook Air M2,Computers,34900,3,104700,Khon Kaen
+TRX-1111,2024-03-27,Logitech MX Master 3S,Accessories,3900,2,7800,Phuket
+TRX-1112,2024-03-28,Samsung S24 Ultra,Electronics,45900,2,91800,Bangkok
+TRX-1113,2024-03-08,MacBook Air M2,Computers,34900,1,34900,Bangkok
+TRX-1114,2024-01-29,MacBook Air M2,Computers,34900,1,34900,Bangkok
+TRX-1115,2024-01-19,Samsung S24 Ultra,Electronics,45900,2,91800,Bangkok
+TRX-1116,2024-02-14,iPhone 15 Pro,Electronics,41900,2,83800,Phuket
+TRX-1117,2024-01-28,Dell XPS 13,Computers,55000,1,55000,Bangkok
+TRX-1118,2024-01-01,Logitech MX Master 3S,Accessories,3900,2,7800,Phuket
+TRX-1119,2024-02-02,Sony WH-1000XM5,Accessories,11900,1,11900,Bangkok
+TRX-1120,2024-03-09,MacBook Air M2,Computers,34900,2,69800,Khon Kaen
+TRX-1121,2024-03-20,Dell XPS 13,Computers,55000,1,55000,Chiang Mai
+TRX-1122,2024-02-08,MacBook Air M2,Computers,34900,1,34900,Chiang Mai
+TRX-1123,2024-02-29,Dell XPS 13,Computers,55000,2,110000,Chiang Mai
+TRX-1124,2024-01-17,Samsung S24 Ultra,Electronics,45900,1,45900,Bangkok
+TRX-1125,2024-01-28,Samsung S24 Ultra,Electronics,45900,2,91800,Bangkok
+TRX-1126,2024-01-08,iPhone 15 Pro,Electronics,41900,1,41900,Khon Kaen
+TRX-1127,2024-01-07,Samsung S24 Ultra,Electronics,45900,3,137700,Chiang Mai
+TRX-1128,2024-03-31,Logitech MX Master 3S,Accessories,3900,2,7800,Bangkok
+TRX-1129,2024-02-18,Sony WH-1000XM5,Accessories,11900,3,35700,Khon Kaen
+TRX-1130,2024-02-21,iPhone 15 Pro,Electronics,41900,2,83800,Bangkok
+TRX-1131,2024-03-15,Samsung S24 Ultra,Electronics,45900,2,91800,Chiang Mai
+TRX-1132,2024-01-11,Dell XPS 13,Computers,55000,2,110000,Bangkok
+TRX-1133,2024-01-26,MacBook Air M2,Computers,34900,1,34900,Phuket
+TRX-1134,2024-02-08,Dell XPS 13,Computers,55000,2,110000,Chiang Mai
+TRX-1135,2024-02-24,Sony WH-1000XM5,Accessories,11900,3,35700,Phuket
+TRX-1136,2024-02-22,Sony WH-1000XM5,Accessories,11900,1,11900,Chiang Mai
+TRX-1137,2024-03-06,MacBook Air M2,Computers,34900,1,34900,Bangkok
+TRX-1138,2024-02-21,Samsung S24 Ultra,Electronics,45900,2,91800,Bangkok
+TRX-1139,2024-01-27,iPhone 15 Pro,Electronics,41900,1,41900,Chiang Mai
+TRX-1140,2024-02-17,Sony WH-1000XM5,Accessories,11900,3,35700,Chiang Mai
+TRX-1141,2024-02-07,Sony WH-1000XM5,Accessories,11900,1,11900,Chiang Mai
+TRX-1142,2024-01-10,Dell XPS 13,Computers,55000,2,110000,Phuket
+TRX-1143,2024-02-18,iPhone 15 Pro,Electronics,41900,2,83800,Chiang Mai
+TRX-1144,2024-02-08,iPhone 15 Pro,Electronics,41900,3,125700,Bangkok
+TRX-1145,2024-03-30,Sony WH-1000XM5,Accessories,11900,2,23800,Bangkok
+TRX-1146,2024-03-11,Samsung S24 Ultra,Electronics,45900,1,45900,Khon Kaen
+TRX-1147,2024-03-21,Sony WH-1000XM5,Accessories,11900,1,11900,Khon Kaen
+TRX-1148,2024-01-16,MacBook Air M2,Computers,34900,2,69800,Chiang Mai
+TRX-1149,2024-01-05,Samsung S24 Ultra,Electronics,45900,2,91800,Chiang Mai
+TRX-1150,2024-01-19,MacBook Air M2,Computers,34900,1,34900,Khon Kaen
+TRX-1151,2024-01-02,iPhone 15 Pro,Electronics,41900,2,83800,Khon Kaen
+TRX-1152,2024-03-08,iPhone 15 Pro,Electronics,41900,1,41900,Chiang Mai
+TRX-1153,2024-03-24,Samsung S24 Ultra,Electronics,45900,3,137700,Khon Kaen
+TRX-1154,2024-01-14,Sony WH-1000XM5,Accessories,11900,3,35700,Chiang Mai
+TRX-1155,2024-02-07,Sony WH-1000XM5,Accessories,11900,1,11900,Bangkok
+TRX-1156,2024-01-16,MacBook Air M2,Computers,34900,1,34900,Khon Kaen
+TRX-1157,2024-02-20,MacBook Air M2,Computers,34900,3,104700,Bangkok
+TRX-1158,2024-01-26,iPhone 15 Pro,Electronics,41900,2,83800,Phuket
+TRX-1159,2024-03-16,MacBook Air M2,Computers,34900,3,104700,Chiang Mai
+TRX-1160,2024-02-14,Sony WH-1000XM5,Accessories,11900,3,35700,Chiang Mai
+TRX-1161,2024-03-07,Logitech MX Master 3S,Accessories,3900,1,3900,Khon Kaen
+TRX-1162,2024-02-23,iPhone 15 Pro,Electronics,41900,1,41900,Phuket
+TRX-1163,2024-01-24,Samsung S24 Ultra,Electronics,45900,1,45900,Bangkok
+TRX-1164,2024-02-21,Dell XPS 13,Computers,55000,2,110000,Chiang Mai
+TRX-1165,2024-03-28,MacBook Air M2,Computers,34900,2,69800,Phuket
+TRX-1166,2024-02-05,Sony WH-1000XM5,Accessories,11900,1,11900,Phuket
+TRX-1167,2024-03-27,iPhone 15 Pro,Electronics,41900,2,83800,Bangkok
+TRX-1168,2024-02-17,Samsung S24 Ultra,Electronics,45900,3,137700,Bangkok
+TRX-1169,2024-01-04,iPhone 15 Pro,Electronics,41900,2,83800,Chiang Mai
+TRX-1170,2024-02-20,Dell XPS 13,Computers,55000,3,165000,Bangkok
+TRX-1171,2024-03-21,Logitech MX Master 3S,Accessories,3900,3,11700,Chiang Mai
+TRX-1172,2024-02-15,Sony WH-1000XM5,Accessories,11900,1,11900,Khon Kaen
+TRX-1173,2024-03-28,Sony WH-1000XM5,Accessories,11900,3,35700,Khon Kaen
+TRX-1174,2024-01-23,MacBook Air M2,Computers,34900,1,34900,Bangkok
+TRX-1175,2024-03-20,iPhone 15 Pro,Electronics,41900,3,125700,Phuket
+TRX-1176,2024-03-16,Logitech MX Master 3S,Accessories,3900,3,11700,Khon Kaen
+TRX-1177,2024-03-04,MacBook Air M2,Computers,34900,2,69800,Chiang Mai
+TRX-1178,2024-01-13,Sony WH-1000XM5,Accessories,11900,2,23800,Bangkok
+TRX-1179,2024-01-22,iPhone 15 Pro,Electronics,41900,2,83800,Phuket
+TRX-1180,2024-02-16,Samsung S24 Ultra,Electronics,45900,3,137700,Phuket
+TRX-1181,2024-02-26,Sony WH-1000XM5,Accessories,11900,1,11900,Chiang Mai
+TRX-1182,2024-01-29,Samsung S24 Ultra,Electronics,45900,3,137700,Bangkok
+TRX-1183,2024-01-16,MacBook Air M2,Computers,34900,3,104700,Chiang Mai
+TRX-1184,2024-02-28,Dell XPS 13,Computers,55000,2,110000,Phuket
+TRX-1185,2024-03-31,iPhone 15 Pro,Electronics,41900,3,125700,Chiang Mai
+TRX-1186,2024-03-09,MacBook Air M2,Computers,34900,2,69800,Khon Kaen
+TRX-1187,2024-03-19,MacBook Air M2,Computers,34900,1,34900,Khon Kaen
+TRX-1188,2024-01-21,MacBook Air M2,Computers,34900,2,69800,Chiang Mai
+TRX-1189,2024-02-21,Sony WH-1000XM5,Accessories,11900,1,11900,Chiang Mai
+TRX-1190,2024-01-21,Samsung S24 Ultra,Electronics,45900,3,137700,Phuket
+TRX-1191,2024-03-14,Dell XPS 13,Computers,55000,1,55000,Bangkok
+TRX-1192,2024-01-21,iPhone 15 Pro,Electronics,41900,3,125700,Khon Kaen
+TRX-1193,2024-01-23,Logitech MX Master 3S,Accessories,3900,1,3900,Chiang Mai
+TRX-1194,2024-01-01,Samsung S24 Ultra,Electronics,45900,1,45900,Bangkok
+TRX-1195,2024-02-07,iPhone 15 Pro,Electronics,41900,3,125700,Chiang Mai
+TRX-1196,2024-03-20,Sony WH-1000XM5,Accessories,11900,2,23800,Bangkok
+TRX-1197,2024-03-15,iPhone 15 Pro,Electronics,41900,1,41900,Phuket
+TRX-1198,2024-03-11,Samsung S24 Ultra,Electronics,45900,3,137700,Bangkok
+TRX-1199,2024-01-17,Sony WH-1000XM5,Accessories,11900,1,11900,Phuket
+TRX-1200,2024-01-18,Logitech MX Master 3S,Accessories,3900,2,7800,Bangkok
+TRX-1201,2024-02-14,MacBook Air M2,Computers,34900,3,104700,Phuket
+TRX-1202,2024-03-02,Samsung S24 Ultra,Electronics,45900,3,137700,Phuket
+TRX-1203,2024-02-24,iPhone 15 Pro,Electronics,41900,1,41900,Phuket
+TRX-1204,2024-03-09,Logitech MX Master 3S,Accessories,3900,3,11700,Khon Kaen
+TRX-1205,2024-01-16,Sony WH-1000XM5,Accessories,11900,3,35700,Khon Kaen
+TRX-1206,2024-01-31,iPhone 15 Pro,Electronics,41900,2,83800,Bangkok
+TRX-1207,2024-01-30,Logitech MX Master 3S,Accessories,3900,1,3900,Phuket
+TRX-1208,2024-02-04,Dell XPS 13,Computers,55000,2,110000,Chiang Mai
+TRX-1209,2024-02-11,Dell XPS 13,Computers,55000,2,110000,Chiang Mai
+TRX-1210,2024-03-08,iPhone 15 Pro,Electronics,41900,1,41900,Phuket
+TRX-1211,2024-01-04,Logitech MX Master 3S,Accessories,3900,2,7800,Khon Kaen
+TRX-1212,2024-03-13,Dell XPS 13,Computers,55000,1,55000,Khon Kaen
+TRX-1213,2024-01-01,Sony WH-1000XM5,Accessories,11900,1,11900,Phuket
+TRX-1214,2024-01-05,MacBook Air M2,Computers,34900,2,69800,Bangkok
+TRX-1215,2024-01-15,Dell XPS 13,Computers,55000,2,110000,Phuket
+TRX-1216,2024-02-26,Logitech MX Master 3S,Accessories,3900,2,7800,Khon Kaen
+TRX-1217,2024-02-06,MacBook Air M2,Computers,34900,1,34900,Phuket
+TRX-1218,2024-01-04,Dell XPS 13,Computers,55000,3,165000,Phuket
+TRX-1219,2024-01-25,Logitech MX Master 3S,Accessories,3900,1,3900,Bangkok
+TRX-1220,2024-01-06,Dell XPS 13,Computers,55000,1,55000,Bangkok
+TRX-1221,2024-02-18,iPhone 15 Pro,Electronics,41900,2,83800,Bangkok
+TRX-1222,2024-01-17,MacBook Air M2,Computers,34900,1,34900,Phuket
+TRX-1223,2024-03-19,Logitech MX Master 3S,Accessories,3900,1,3900,Phuket
+TRX-1224,2024-02-01,iPhone 15 Pro,Electronics,41900,2,83800,Bangkok
+TRX-1225,2024-01-21,Sony WH-1000XM5,Accessories,11900,2,23800,Phuket
+TRX-1226,2024-02-15,iPhone 15 Pro,Electronics,41900,3,125700,Phuket
+TRX-1227,2024-03-05,Sony WH-1000XM5,Accessories,11900,2,23800,Chiang Mai
+TRX-1228,2024-03-02,Logitech MX Master 3S,Accessories,3900,1,3900,Chiang Mai
+TRX-1229,2024-01-10,Sony WH-1000XM5,Accessories,11900,3,35700,Phuket
+TRX-1230,2024-01-08,Logitech MX Master 3S,Accessories,3900,1,3900,Phuket
+TRX-1231,2024-03-02,iPhone 15 Pro,Electronics,41900,3,125700,Phuket
+TRX-1232,2024-01-29,Dell XPS 13,Computers,55000,1,55000,Bangkok
+TRX-1233,2024-03-24,Logitech MX Master 3S,Accessories,3900,2,7800,Bangkok
+TRX-1234,2024-03-20,Sony WH-1000XM5,Accessories,11900,1,11900,Bangkok
+TRX-1235,2024-02-09,Dell XPS 13,Computers,55000,1,55000,Bangkok
+TRX-1236,2024-02-28,iPhone 15 Pro,Electronics,41900,3,125700,Chiang Mai
+TRX-1237,2024-01-15,Logitech MX Master 3S,Accessories,3900,1,3900,Bangkok
+TRX-1238,2024-01-19,Samsung S24 Ultra,Electronics,45900,2,91800,Phuket
+TRX-1239,2024-01-17,iPhone 15 Pro,Electronics,41900,3,125700,Bangkok
+TRX-1240,2024-02-29,Logitech MX Master 3S,Accessories,3900,1,3900,Chiang Mai
+TRX-1241,2024-02-23,Logitech MX Master 3S,Accessories,3900,2,7800,Chiang Mai
+TRX-1242,2024-01-02,Dell XPS 13,Computers,55000,2,110000,Phuket
+TRX-1243,2024-02-05,Logitech MX Master 3S,Accessories,3900,3,11700,Chiang Mai
+TRX-1244,2024-02-13,Logitech MX Master 3S,Accessories,3900,3,11700,Khon Kaen
+TRX-1245,2024-02-01,Sony WH-1000XM5,Accessories,11900,3,35700,Chiang Mai
+TRX-1246,2024-02-19,MacBook Air M2,Computers,34900,2,69800,Phuket
+TRX-1247,2024-02-16,iPhone 15 Pro,Electronics,41900,2,83800,Bangkok
+TRX-1248,2024-01-28,MacBook Air M2,Computers,34900,1,34900,Khon Kaen
+TRX-1249,2024-01-01,Logitech MX Master 3S,Accessories,3900,1,3900,Chiang Mai
+TRX-1250,2024-02-04,Samsung S24 Ultra,Electronics,45900,2,91800,Chiang Mai
+TRX-1251,2024-01-07,iPhone 15 Pro,Electronics,41900,3,125700,Bangkok
+TRX-1252,2024-02-02,Samsung S24 Ultra,Electronics,45900,3,137700,Khon Kaen
+TRX-1253,2024-01-13,Dell XPS 13,Computers,55000,2,110000,Bangkok
+TRX-1254,2024-01-08,iPhone 15 Pro,Electronics,41900,2,83800,Khon Kaen
+TRX-1255,2024-02-22,MacBook Air M2,Computers,34900,1,34900,Bangkok
+TRX-1256,2024-02-19,Samsung S24 Ultra,Electronics,45900,1,45900,Chiang Mai
+TRX-1257,2024-01-13,iPhone 15 Pro,Electronics,41900,2,83800,Chiang Mai
+TRX-1258,2024-03-18,Sony WH-1000XM5,Accessories,11900,3,35700,Chiang Mai
+TRX-1259,2024-01-07,Sony WH-1000XM5,Accessories,11900,1,11900,Chiang Mai
+TRX-1260,2024-02-20,Logitech MX Master 3S,Accessories,3900,2,7800,Bangkok
+TRX-1261,2024-03-28,Dell XPS 13,Computers,55000,1,55000,Khon Kaen
+TRX-1262,2024-01-25,Sony WH-1000XM5,Accessories,11900,1,11900,Bangkok
+TRX-1263,2024-01-31,Samsung S24 Ultra,Electronics,45900,2,91800,Chiang Mai
+TRX-1264,2024-02-28,Logitech MX Master 3S,Accessories,3900,1,3900,Bangkok
+TRX-1265,2024-02-07,Samsung S24 Ultra,Electronics,45900,2,91800,Chiang Mai
+TRX-1266,2024-02-26,Dell XPS 13,Computers,55000,2,110000,Khon Kaen
+TRX-1267,2024-03-26,Dell XPS 13,Computers,55000,2,110000,Khon Kaen
+TRX-1268,2024-03-06,MacBook Air M2,Computers,34900,2,69800,Khon Kaen
+TRX-1269,2024-02-25,MacBook Air M2,Computers,34900,1,34900,Khon Kaen
+TRX-1270,2024-01-22,Sony WH-1000XM5,Accessories,11900,1,11900,Khon Kaen
+TRX-1271,2024-01-26,Dell XPS 13,Computers,55000,2,110000,Khon Kaen
+TRX-1272,2024-01-08,Dell XPS 13,Computers,55000,3,165000,Phuket
+TRX-1273,2024-02-20,Sony WH-1000XM5,Accessories,11900,3,35700,Bangkok
+TRX-1274,2024-02-29,Samsung S24 Ultra,Electronics,45900,2,91800,Phuket
+TRX-1275,2024-03-10,Sony WH-1000XM5,Accessories,11900,1,11900,Phuket
+TRX-1276,2024-01-25,Samsung S24 Ultra,Electronics,45900,2,91800,Chiang Mai
+TRX-1277,2024-02-25,MacBook Air M2,Computers,34900,2,69800,Chiang Mai
+TRX-1278,2024-03-06,iPhone 15 Pro,Electronics,41900,2,83800,Khon Kaen
+TRX-1279,2024-03-27,Dell XPS 13,Computers,55000,3,165000,Bangkok
+TRX-1280,2024-01-11,Dell XPS 13,Computers,55000,3,165000,Khon Kaen
+TRX-1281,2024-02-17,MacBook Air M2,Computers,34900,2,69800,Phuket
+TRX-1282,2024-02-28,Logitech MX Master 3S,Accessories,3900,3,11700,Bangkok
+TRX-1283,2024-01-02,iPhone 15 Pro,Electronics,41900,2,83800,Bangkok
+TRX-1284,2024-03-19,MacBook Air M2,Computers,34900,3,104700,Khon Kaen
+TRX-1285,2024-01-31,Samsung S24 Ultra,Electronics,45900,3,137700,Phuket
+TRX-1286,2024-03-09,Samsung S24 Ultra,Electronics,45900,3,137700,Bangkok
+TRX-1287,2024-01-26,Logitech MX Master 3S,Accessories,3900,1,3900,Bangkok
+TRX-1288,2024-02-18,Sony WH-1000XM5,Accessories,11900,3,35700,Phuket
+TRX-1289,2024-02-06,MacBook Air M2,Computers,34900,1,34900,Chiang Mai
+TRX-1290,2024-01-29,Logitech MX Master 3S,Accessories,3900,2,7800,Phuket
+TRX-1291,2024-01-03,Sony WH-1000XM5,Accessories,11900,3,35700,Khon Kaen
+TRX-1292,2024-01-15,Samsung S24 Ultra,Electronics,45900,3,137700,Phuket
+TRX-1293,2024-01-08,MacBook Air M2,Computers,34900,3,104700,Phuket
+TRX-1294,2024-01-31,MacBook Air M2,Computers,34900,2,69800,Chiang Mai
+TRX-1295,2024-01-05,Logitech MX Master 3S,Accessories,3900,1,3900,Chiang Mai
+TRX-1296,2024-01-02,Samsung S24 Ultra,Electronics,45900,3,137700,Chiang Mai
+TRX-1297,2024-01-11,iPhone 15 Pro,Electronics,41900,1,41900,Khon Kaen
+TRX-1298,2024-03-16,MacBook Air M2,Computers,34900,2,69800,Phuket
+TRX-1299,2024-03-12,iPhone 15 Pro,Electronics,41900,1,41900,Chiang Mai
+TRX-1300,2024-03-16,Sony WH-1000XM5,Accessories,11900,3,35700,Khon Kaen
+TRX-1301,2024-02-29,Dell XPS 13,Computers,55000,1,55000,Chiang Mai
+TRX-1302,2024-03-04,Dell XPS 13,Computers,55000,3,165000,Phuket
+TRX-1303,2024-02-25,Logitech MX Master 3S,Accessories,3900,1,3900,Phuket
+TRX-1304,2024-02-25,Sony WH-1000XM5,Accessories,11900,1,11900,Khon Kaen
+TRX-1305,2024-03-09,Sony WH-1000XM5,Accessories,11900,2,23800,Phuket
+TRX-1306,2024-01-01,Samsung S24 Ultra,Electronics,45900,1,45900,Chiang Mai
+TRX-1307,2024-02-22,Dell XPS 13,Computers,55000,3,165000,Chiang Mai
+TRX-1308,2024-02-08,iPhone 15 Pro,Electronics,41900,3,125700,Phuket
+TRX-1309,2024-03-25,Samsung S24 Ultra,Electronics,45900,1,45900,Khon Kaen
+TRX-1310,2024-03-21,iPhone 15 Pro,Electronics,41900,3,125700,Chiang Mai
+TRX-1311,2024-01-13,iPhone 15 Pro,Electronics,41900,2,83800,Chiang Mai
+TRX-1312,2024-03-18,Samsung S24 Ultra,Electronics,45900,1,45900,Phuket
+TRX-1313,2024-03-29,MacBook Air M2,Computers,34900,1,34900,Chiang Mai
+TRX-1314,2024-01-30,Dell XPS 13,Computers,55000,2,110000,Khon Kaen
+TRX-1315,2024-01-21,Dell XPS 13,Computers,55000,1,55000,Bangkok
+TRX-1316,2024-02-16,iPhone 15 Pro,Electronics,41900,3,125700,Phuket
+TRX-1317,2024-01-29,Samsung S24 Ultra,Electronics,45900,2,91800,Phuket
+TRX-1318,2024-02-09,Sony WH-1000XM5,Accessories,11900,2,23800,Phuket
+TRX-1319,2024-03-06,Sony WH-1000XM5,Accessories,11900,3,35700,Bangkok
+TRX-1320,2024-03-12,iPhone 15 Pro,Electronics,41900,2,83800,Chiang Mai
+TRX-1321,2024-01-26,MacBook Air M2,Computers,34900,3,104700,Khon Kaen
+TRX-1322,2024-01-02,Logitech MX Master 3S,Accessories,3900,2,7800,Phuket
+TRX-1323,2024-02-09,MacBook Air M2,Computers,34900,2,69800,Chiang Mai
+TRX-1324,2024-03-27,Dell XPS 13,Computers,55000,2,110000,Bangkok
+TRX-1325,2024-03-14,Logitech MX Master 3S,Accessories,3900,1,3900,Chiang Mai
+TRX-1326,2024-03-13,Samsung S24 Ultra,Electronics,45900,1,45900,Khon Kaen
+TRX-1327,2024-01-12,iPhone 15 Pro,Electronics,41900,2,83800,Khon Kaen
+TRX-1328,2024-03-25,Dell XPS 13,Computers,55000,2,110000,Bangkok
+TRX-1329,2024-02-18,Sony WH-1000XM5,Accessories,11900,2,23800,Phuket
+TRX-1330,2024-03-14,MacBook Air M2,Computers,34900,2,69800,Bangkok
+TRX-1331,2024-01-02,iPhone 15 Pro,Electronics,41900,3,125700,Phuket
+TRX-1332,2024-03-04,Logitech MX Master 3S,Accessories,3900,2,7800,Chiang Mai
+TRX-1333,2024-03-29,Sony WH-1000XM5,Accessories,11900,3,35700,Khon Kaen
+TRX-1334,2024-01-06,Sony WH-1000XM5,Accessories,11900,1,11900,Bangkok
+TRX-1335,2024-03-07,iPhone 15 Pro,Electronics,41900,3,125700,Khon Kaen
+TRX-1336,2024-03-05,iPhone 15 Pro,Electronics,41900,3,125700,Chiang Mai
+TRX-1337,2024-03-23,Sony WH-1000XM5,Accessories,11900,2,23800,Bangkok
+TRX-1338,2024-02-02,Samsung S24 Ultra,Electronics,45900,3,137700,Chiang Mai
+TRX-1339,2024-03-01,MacBook Air M2,Computers,34900,1,34900,Chiang Mai
+TRX-1340,2024-01-26,MacBook Air M2,Computers,34900,2,69800,Phuket
+TRX-1341,2024-02-01,Samsung S24 Ultra,Electronics,45900,3,137700,Bangkok
+TRX-1342,2024-01-20,Sony WH-1000XM5,Accessories,11900,2,23800,Bangkok
+TRX-1343,2024-03-13,Sony WH-1000XM5,Accessories,11900,2,23800,Phuket
+TRX-1344,2024-02-29,MacBook Air M2,Computers,34900,2,69800,Khon Kaen
+TRX-1345,2024-02-27,iPhone 15 Pro,Electronics,41900,2,83800,Khon Kaen
+TRX-1346,2024-02-29,iPhone 15 Pro,Electronics,41900,1,41900,Chiang Mai
+TRX-1347,2024-03-08,Sony WH-1000XM5,Accessories,11900,3,35700,Chiang Mai
+TRX-1348,2024-03-23,Samsung S24 Ultra,Electronics,45900,3,137700,Bangkok
+TRX-1349,2024-03-29,MacBook Air M2,Computers,34900,2,69800,Chiang Mai
+TRX-1350,2024-03-06,Samsung S24 Ultra,Electronics,45900,2,91800,Chiang Mai
+TRX-1351,2024-01-10,Logitech MX Master 3S,Accessories,3900,1,3900,Chiang Mai
+TRX-1352,2024-03-02,Samsung S24 Ultra,Electronics,45900,3,137700,Chiang Mai
+TRX-1353,2024-03-21,Logitech MX Master 3S,Accessories,3900,3,11700,Phuket
+TRX-1354,2024-03-20,Dell XPS 13,Computers,55000,1,55000,Phuket
+TRX-1355,2024-02-27,Logitech MX Master 3S,Accessories,3900,2,7800,Chiang Mai
+TRX-1356,2024-03-09,iPhone 15 Pro,Electronics,41900,3,125700,Bangkok
+TRX-1357,2024-02-12,MacBook Air M2,Computers,34900,2,69800,Chiang Mai
+TRX-1358,2024-01-16,Logitech MX Master 3S,Accessories,3900,1,3900,Phuket
+TRX-1359,2024-01-15,iPhone 15 Pro,Electronics,41900,1,41900,Khon Kaen
+TRX-1360,2024-02-23,MacBook Air M2,Computers,34900,2,69800,Bangkok
+TRX-1361,2024-01-05,MacBook Air M2,Computers,34900,1,34900,Khon Kaen
+TRX-1362,2024-03-27,Dell XPS 13,Computers,55000,3,165000,Phuket
+TRX-1363,2024-01-29,Logitech MX Master 3S,Accessories,3900,1,3900,Bangkok
+TRX-1364,2024-01-18,Samsung S24 Ultra,Electronics,45900,1,45900,Khon Kaen
+TRX-1365,2024-01-19,Logitech MX Master 3S,Accessories,3900,2,7800,Khon Kaen
+TRX-1366,2024-03-09,Logitech MX Master 3S,Accessories,3900,2,7800,Chiang Mai
+TRX-1367,2024-02-27,Samsung S24 Ultra,Electronics,45900,2,91800,Chiang Mai
+TRX-1368,2024-03-15,Logitech MX Master 3S,Accessories,3900,2,7800,Khon Kaen
+TRX-1369,2024-01-21,Samsung S24 Ultra,Electronics,45900,1,45900,Bangkok
+TRX-1370,2024-02-27,iPhone 15 Pro,Electronics,41900,2,83800,Bangkok
+TRX-1371,2024-02-18,Logitech MX Master 3S,Accessories,3900,3,11700,Chiang Mai
+TRX-1372,2024-02-16,Logitech MX Master 3S,Accessories,3900,2,7800,Chiang Mai
+TRX-1373,2024-03-12,Dell XPS 13,Computers,55000,1,55000,Bangkok
+TRX-1374,2024-02-06,Sony WH-1000XM5,Accessories,11900,2,23800,Khon Kaen
+TRX-1375,2024-01-24,Logitech MX Master 3S,Accessories,3900,2,7800,Khon Kaen
+TRX-1376,2024-03-30,iPhone 15 Pro,Electronics,41900,2,83800,Bangkok
+TRX-1377,2024-03-09,Samsung S24 Ultra,Electronics,45900,3,137700,Phuket
+TRX-1378,2024-01-31,iPhone 15 Pro,Electronics,41900,3,125700,Chiang Mai
+TRX-1379,2024-01-30,Samsung S24 Ultra,Electronics,45900,1,45900,Phuket
+TRX-1380,2024-03-13,Sony WH-1000XM5,Accessories,11900,3,35700,Phuket
+TRX-1381,2024-03-21,MacBook Air M2,Computers,34900,1,34900,Phuket
+TRX-1382,2024-02-01,iPhone 15 Pro,Electronics,41900,2,83800,Bangkok
+TRX-1383,2024-02-16,iPhone 15 Pro,Electronics,41900,2,83800,Phuket
+TRX-1384,2024-02-22,Logitech MX Master 3S,Accessories,3900,2,7800,Chiang Mai
+TRX-1385,2024-02-03,Dell XPS 13,Computers,55000,3,165000,Khon Kaen
+TRX-1386,2024-03-03,iPhone 15 Pro,Electronics,41900,3,125700,Chiang Mai
+TRX-1387,2024-01-03,iPhone 15 Pro,Electronics,41900,2,83800,Phuket
+TRX-1388,2024-01-14,iPhone 15 Pro,Electronics,41900,3,125700,Chiang Mai
+TRX-1389,2024-03-06,Samsung S24 Ultra,Electronics,45900,3,137700,Chiang Mai
+TRX-1390,2024-01-20,Samsung S24 Ultra,Electronics,45900,2,91800,Phuket
+TRX-1391,2024-02-20,MacBook Air M2,Computers,34900,1,34900,Phuket
+TRX-1392,2024-03-02,Samsung S24 Ultra,Electronics,45900,3,137700,Phuket
+TRX-1393,2024-01-24,MacBook Air M2,Computers,34900,2,69800,Bangkok
+TRX-1394,2024-01-24,Sony WH-1000XM5,Accessories,11900,3,35700,Chiang Mai
+TRX-1395,2024-01-07,Samsung S24 Ultra,Electronics,45900,3,137700,Bangkok
+TRX-1396,2024-03-01,MacBook Air M2,Computers,34900,1,34900,Bangkok
+TRX-1397,2024-03-08,Sony WH-1000XM5,Accessories,11900,3,35700,Chiang Mai
+TRX-1398,2024-01-10,Sony WH-1000XM5,Accessories,11900,1,11900,Chiang Mai
+TRX-1399,2024-01-06,Samsung S24 Ultra,Electronics,45900,1,45900,Phuket
+TRX-1400,2024-03-06,iPhone 15 Pro,Electronics,41900,1,41900,Phuket
+TRX-1401,2024-03-09,Dell XPS 13,Computers,55000,2,110000,Chiang Mai
+TRX-1402,2024-01-14,MacBook Air M2,Computers,34900,3,104700,Bangkok
+TRX-1403,2024-03-03,Logitech MX Master 3S,Accessories,3900,2,7800,Khon Kaen
+TRX-1404,2024-03-23,MacBook Air M2,Computers,34900,1,34900,Chiang Mai
+TRX-1405,2024-03-09,Samsung S24 Ultra,Electronics,45900,3,137700,Khon Kaen
+TRX-1406,2024-02-24,Sony WH-1000XM5,Accessories,11900,2,23800,Khon Kaen
+TRX-1407,2024-01-30,iPhone 15 Pro,Electronics,41900,2,83800,Chiang Mai
+TRX-1408,2024-01-04,Dell XPS 13,Computers,55000,3,165000,Phuket
+TRX-1409,2024-03-15,iPhone 15 Pro,Electronics,41900,3,125700,Bangkok
+TRX-1410,2024-03-21,MacBook Air M2,Computers,34900,3,104700,Phuket
+TRX-1411,2024-02-08,MacBook Air M2,Computers,34900,3,104700,Bangkok
+TRX-1412,2024-01-22,Dell XPS 13,Computers,55000,1,55000,Khon Kaen
+TRX-1413,2024-02-18,Logitech MX Master 3S,Accessories,3900,1,3900,Chiang Mai
+TRX-1414,2024-03-07,MacBook Air M2,Computers,34900,1,34900,Phuket
+TRX-1415,2024-03-11,Samsung S24 Ultra,Electronics,45900,2,91800,Phuket
+TRX-1416,2024-02-08,MacBook Air M2,Computers,34900,2,69800,Phuket
+TRX-1417,2024-01-23,Logitech MX Master 3S,Accessories,3900,3,11700,Khon Kaen
+TRX-1418,2024-02-07,iPhone 15 Pro,Electronics,41900,1,41900,Bangkok
+TRX-1419,2024-01-21,MacBook Air M2,Computers,34900,1,34900,Phuket
+TRX-1420,2024-03-11,MacBook Air M2,Computers,34900,3,104700,Khon Kaen
+TRX-1421,2024-02-05,Sony WH-1000XM5,Accessories,11900,1,11900,Phuket
+TRX-1422,2024-02-09,iPhone 15 Pro,Electronics,41900,3,125700,Khon Kaen
+TRX-1423,2024-03-08,MacBook Air M2,Computers,34900,2,69800,Bangkok
+TRX-1424,2024-02-21,iPhone 15 Pro,Electronics,41900,1,41900,Khon Kaen
+TRX-1425,2024-02-04,Samsung S24 Ultra,Electronics,45900,3,137700,Chiang Mai
+TRX-1426,2024-02-25,iPhone 15 Pro,Electronics,41900,3,125700,Chiang Mai
+TRX-1427,2024-02-23,Dell XPS 13,Computers,55000,3,165000,Chiang Mai
+TRX-1428,2024-03-07,Dell XPS 13,Computers,55000,3,165000,Chiang Mai
+TRX-1429,2024-03-13,MacBook Air M2,Computers,34900,1,34900,Chiang Mai
+TRX-1430,2024-03-05,Samsung S24 Ultra,Electronics,45900,3,137700,Khon Kaen
+TRX-1431,2024-03-28,Sony WH-1000XM5,Accessories,11900,3,35700,Khon Kaen
+TRX-1432,2024-02-16,iPhone 15 Pro,Electronics,41900,3,125700,Bangkok
+TRX-1433,2024-02-29,Sony WH-1000XM5,Accessories,11900,1,11900,Phuket
+TRX-1434,2024-01-22,Dell XPS 13,Computers,55000,2,110000,Bangkok
+TRX-1435,2024-02-08,iPhone 15 Pro,Electronics,41900,3,125700,Khon Kaen
+TRX-1436,2024-01-07,iPhone 15 Pro,Electronics,41900,3,125700,Khon Kaen
+TRX-1437,2024-02-09,Dell XPS 13,Computers,55000,2,110000,Chiang Mai
+TRX-1438,2024-02-23,iPhone 15 Pro,Electronics,41900,1,41900,Phuket
+TRX-1439,2024-03-18,Logitech MX Master 3S,Accessories,3900,3,11700,Bangkok
+TRX-1440,2024-02-08,Sony WH-1000XM5,Accessories,11900,3,35700,Phuket
+TRX-1441,2024-01-03,MacBook Air M2,Computers,34900,1,34900,Khon Kaen
+TRX-1442,2024-02-12,iPhone 15 Pro,Electronics,41900,2,83800,Phuket
+TRX-1443,2024-01-20,Dell XPS 13,Computers,55000,1,55000,Bangkok
+TRX-1444,2024-03-25,MacBook Air M2,Computers,34900,3,104700,Bangkok
+TRX-1445,2024-01-22,Samsung S24 Ultra,Electronics,45900,2,91800,Khon Kaen
+TRX-1446,2024-02-28,Samsung S24 Ultra,Electronics,45900,1,45900,Phuket
+TRX-1447,2024-01-17,Sony WH-1000XM5,Accessories,11900,1,11900,Chiang Mai
+TRX-1448,2024-02-23,Logitech MX Master 3S,Accessories,3900,2,7800,Phuket
+TRX-1449,2024-03-25,Samsung S24 Ultra,Electronics,45900,2,91800,Chiang Mai
+TRX-1450,2024-01-29,Sony WH-1000XM5,Accessories,11900,3,35700,Phuket
+TRX-1451,2024-01-06,iPhone 15 Pro,Electronics,41900,3,125700,Chiang Mai
+TRX-1452,2024-01-02,Logitech MX Master 3S,Accessories,3900,1,3900,Bangkok
+TRX-1453,2024-01-11,Sony WH-1000XM5,Accessories,11900,1,11900,Phuket
+TRX-1454,2024-03-09,MacBook Air M2,Computers,34900,1,34900,Khon Kaen
+TRX-1455,2024-01-16,Logitech MX Master 3S,Accessories,3900,3,11700,Chiang Mai
+TRX-1456,2024-03-06,Logitech MX Master 3S,Accessories,3900,2,7800,Khon Kaen
+TRX-1457,2024-03-29,Dell XPS 13,Computers,55000,1,55000,Khon Kaen
+TRX-1458,2024-03-27,iPhone 15 Pro,Electronics,41900,2,83800,Chiang Mai
+TRX-1459,2024-03-19,MacBook Air M2,Computers,34900,3,104700,Khon Kaen
+TRX-1460,2024-01-21,MacBook Air M2,Computers,34900,3,104700,Chiang Mai
+TRX-1461,2024-01-31,Dell XPS 13,Computers,55000,2,110000,Bangkok
+TRX-1462,2024-01-01,Logitech MX Master 3S,Accessories,3900,1,3900,Chiang Mai
+TRX-1463,2024-03-13,iPhone 15 Pro,Electronics,41900,2,83800,Phuket
+TRX-1464,2024-02-14,Sony WH-1000XM5,Accessories,11900,3,35700,Khon Kaen
+TRX-1465,2024-01-23,Logitech MX Master 3S,Accessories,3900,3,11700,Phuket
+TRX-1466,2024-02-24,Samsung S24 Ultra,Electronics,45900,2,91800,Bangkok
+TRX-1467,2024-02-01,iPhone 15 Pro,Electronics,41900,1,41900,Chiang Mai
+TRX-1468,2024-01-10,MacBook Air M2,Computers,34900,3,104700,Phuket
+TRX-1469,2024-01-25,Logitech MX Master 3S,Accessories,3900,1,3900,Khon Kaen
+TRX-1470,2024-01-05,MacBook Air M2,Computers,34900,3,104700,Khon Kaen
+TRX-1471,2024-03-29,Sony WH-1000XM5,Accessories,11900,3,35700,Khon Kaen
+TRX-1472,2024-03-23,Samsung S24 Ultra,Electronics,45900,2,91800,Bangkok
+TRX-1473,2024-02-16,MacBook Air M2,Computers,34900,2,69800,Chiang Mai
+TRX-1474,2024-01-19,MacBook Air M2,Computers,34900,2,69800,Phuket
+TRX-1475,2024-03-22,Logitech MX Master 3S,Accessories,3900,1,3900,Phuket
+TRX-1476,2024-02-12,Logitech MX Master 3S,Accessories,3900,1,3900,Khon Kaen
+TRX-1477,2024-03-10,Samsung S24 Ultra,Electronics,45900,1,45900,Phuket
+TRX-1478,2024-02-29,Samsung S24 Ultra,Electronics,45900,2,91800,Chiang Mai
+TRX-1479,2024-01-26,Sony WH-1000XM5,Accessories,11900,1,11900,Phuket
+TRX-1480,2024-03-18,MacBook Air M2,Computers,34900,2,69800,Chiang Mai
+TRX-1481,2024-02-25,Dell XPS 13,Computers,55000,2,110000,Bangkok
+TRX-1482,2024-02-09,iPhone 15 Pro,Electronics,41900,1,41900,Chiang Mai
+TRX-1483,2024-01-19,Samsung S24 Ultra,Electronics,45900,2,91800,Khon Kaen
+TRX-1484,2024-03-14,Logitech MX Master 3S,Accessories,3900,3,11700,Bangkok
+TRX-1485,2024-02-07,Dell XPS 13,Computers,55000,3,165000,Phuket
+TRX-1486,2024-01-11,iPhone 15 Pro,Electronics,41900,1,41900,Chiang Mai
+TRX-1487,2024-03-21,iPhone 15 Pro,Electronics,41900,2,83800,Bangkok
+TRX-1488,2024-01-18,iPhone 15 Pro,Electronics,41900,1,41900,Chiang Mai
+TRX-1489,2024-02-12,MacBook Air M2,Computers,34900,1,34900,Bangkok
+TRX-1490,2024-03-06,Sony WH-1000XM5,Accessories,11900,3,35700,Chiang Mai
+TRX-1491,2024-03-08,Dell XPS 13,Computers,55000,3,165000,Chiang Mai
+TRX-1492,2024-01-13,Logitech MX Master 3S,Accessories,3900,2,7800,Bangkok
+TRX-1493,2024-03-02,MacBook Air M2,Computers,34900,3,104700,Bangkok
+TRX-1494,2024-01-03,MacBook Air M2,Computers,34900,3,104700,Chiang Mai
+TRX-1495,2024-03-15,MacBook Air M2,Computers,34900,3,104700,Chiang Mai
+TRX-1496,2024-03-14,iPhone 15 Pro,Electronics,41900,3,125700,Khon Kaen
+TRX-1497,2024-03-21,Dell XPS 13,Computers,55000,1,55000,Chiang Mai
+TRX-1498,2024-01-20,Dell XPS 13,Computers,55000,1,55000,Bangkok
+TRX-1499,2024-03-26,Dell XPS 13,Computers,55000,3,165000,Khon Kaen
