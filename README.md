@@ -1,4 +1,4 @@
-# AI-Agent-Hybrid-RAG: Enterprise Data Analyst
+# AI Agent Hybrid RAG: Enterprise Data Analyst
 
 โปรเจกต์นี้เป็นระบบ **Hybrid Retrieval-Augmented Generation (Hybrid RAG)** สำหรับ **วิเคราะห์ข้อมูลองค์กร**
 จุดเด่นคือความสามารถในการผสานข้อมูล 2 รูปแบบเข้าด้วยกัน:
