@@ -5,7 +5,7 @@ from langchain_core.documents import Document
 from dotenv import load_dotenv
 load_dotenv()
 
-df = pd.read_csv("../data/customer_reviews.csv")
+df = pd.read_csv("./data/customer_reviews.csv")
 
 documents = []
 for _, row in df.iterrows():
@@ -32,6 +32,6 @@ embedding = OpenAIEmbeddings(
 Chroma.from_documents(
     documents=documents,
     embedding=embedding,
-    persist_directory="../chroma_db"
+    persist_directory="./chroma_db"
 )
 
