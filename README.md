@@ -9,13 +9,13 @@
 
 ---
 
-## 🚀 ฟีเจอร์หลัก (Features)
+## ฟีเจอร์หลัก (Features)
 * **Intelligent Routing:** ใช้ `LangGraph` เป็นสมองกล ตัดสินใจว่าคำถามควรดึงข้อมูลจาก SQL, Vector หรือใช้ทั้งคู่
 * **SQL Agent:** แปลงคำถามภาษาธรรมชาติเป็น SQL Query เพื่อหาผลรวม, ค่าเฉลี่ย, หรือสถิติยอดขาย
 * **Semantic Search:** ค้นหา Insight จากรีวิวลูกค้าด้วย Vector Embeddings ไม่ใช่แค่ Keyword matching
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 * **Core:** Python, LangChain, LangGraph
 * **Model:** OpenAI gpt-4.1-mini (สามารถปรับเปลี่ยนได้)
 * **Database:**
@@ -25,7 +25,7 @@
 
 ---
 
-## 📂 โครงสร้างโปรเจกต์ (Structure)
+## โครงสร้างโปรเจกต์ (Structure)
 ```text
 ├── data/                 # ไฟล์ข้อมูลดิบ (CSV)
 │   ├── sales_data.csv
